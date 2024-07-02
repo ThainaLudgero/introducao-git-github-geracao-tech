@@ -1,0 +1,4 @@
+git clone : clonar repositório
+git add   : adicionar arquivo ao repositório
+git commit: fazer commit das alterações
+git push  : enviar as alterações
